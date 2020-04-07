@@ -9,7 +9,9 @@ Return True if n is a happy number, and False if not.
 Example: 
 
 Input: 19
+
 Output: true
+
 Explanation:
 
 1^2 + 9^2 = 82
